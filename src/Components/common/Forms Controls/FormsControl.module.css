@@ -1,0 +1,15 @@
+textarea {
+    border: 3px solid rgb(39, 58, 230);
+   
+}
+
+
+.error textarea {
+    border: 3px solid rgb(248, 233, 22);
+}
+
+.formSummaryError {
+    border: 3px solid red;
+    padding: 5px;
+    color: rosybrown;
+}
