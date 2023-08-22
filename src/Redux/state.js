@@ -22,7 +22,7 @@ let store = {
   },
   profilePage: {
       posts: [
-          { id: 1, post: 'Hi, how are you?', likesCount: 10 },
+          { id: 1, post: 'Hey, how are you?', likesCount: 10 },
           { id: 2, post: 'It is my first post!', likesCount: 12 }
          ], 
          newPostText: 'Kamasutra'
